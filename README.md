@@ -23,12 +23,17 @@ Description=Clash daemon, A rule-based proxy in Go.
 After=network.target
 
 [Service]
+
 Type=simple
+
 Restart=always
+
 #ExecStart=/usr/local/bin/clash 
+
 ExecStart=/usr/local/bin/clash -d /home/ives/.config/clash
 
 [Install]
+
 WantedBy=multi-user.target
 
 #
