@@ -1,7 +1,7 @@
 #測試機器 ubuntu22.04, 2023/02/06
 使用机场: https://freegecko.com
 ## 下載
-wget https://github.com/Dreamacro/clash/releases/download/v1.13.0/clash-linux-amd64-v3-v1.13.0.gz](https://github.com/Dreamacro/clash/releases/download/v1.13.0/clash-linux-amd64-v3-v1.13.0.gz
+wget https://github.com/Dreamacro/clash/releases/download/v1.13.0/clash-linux-amd64-v3-v1.13.0.gz
 
 gunzip clash-linux-amd64-v3-v1.13.0.gz
 chmod +x clash-linux-amd64-v3-v1.13.0
