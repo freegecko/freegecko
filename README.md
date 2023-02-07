@@ -30,7 +30,8 @@ ExecStart=/usr/local/bin/clash -d /home/ives/.config/clash
 
 [Install]
 WantedBy=multi-user.target
-#測 
+
+#
 
 systemctl start clash
 
