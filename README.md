@@ -1,3 +1,4 @@
+## linux 翻墙教程
 #測試機器 ubuntu22.04, 2023/02/06
 ## 使用机场: https://freegecko.com
 ## 下載
