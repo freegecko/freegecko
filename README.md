@@ -40,6 +40,3 @@ WantedBy=multi-user.target
 #
 
 systemctl start clash
-
-# 然後用  https://clash.razord.top/#/proxies  
-# 這網站輸入 127.0.0.1 9090 去檢驗自己剛才導入的節點
