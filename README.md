@@ -17,7 +17,7 @@ wget -O config.yaml https://freegecko.com/api/v1/client/subscribe\?token\=xxxxxx
 
 
 ## systemd file
-## vim /etc/systemd/system/clash.service
+# vim /etc/systemd/system/clash.service
 [Unit]
 Description=Clash daemon, A rule-based proxy in Go.
 After=network.target
@@ -30,7 +30,7 @@ ExecStart=/usr/local/bin/clash -d /home/ives/.config/clash
 
 [Install]
 WantedBy=multi-user.target
-####
+# ###
 
 systemctl start clash
 
