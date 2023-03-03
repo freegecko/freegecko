@@ -12,7 +12,7 @@ sudo cp clash-linux-amd64-v3-v1.13.0 /usr/local/bin/clash
 ## 此時會下載一些資料, 預設在 ~/.config/clash/
 
 cd ~/.config/clash/
-wget -O config.yaml https://freegecko.com/api/v1/client/subscribe\?token\=xxxxxxxx\&flag\=clash
+wget -O config.yaml https://www.freegecko.com/api/v1/client/subscribe\?token\=xxxxxxxx\&flag\=clash
 ## 此處換成你的訂閱地址
 
 
