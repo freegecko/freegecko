@@ -1,5 +1,5 @@
 ## linux 翻墙教程
-#測試機器 ubuntu22.04, 2023/02/07
+#測試機器: ubuntu22.04, 2023/02/07
 ## 使用机场: https://freegecko.org
 ## 下載
 wget https://github.com/Dreamacro/clash/releases/download/v1.13.0/clash-linux-amd64-v3-v1.13.0.gz
