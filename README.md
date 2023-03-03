@@ -1,4 +1,4 @@
-## linux 翻墙教程
+## linux 自由壁虎翻墙教程
 #測試機器: ubuntu22.04, 2023/02/07
 ## 使用机场: https://www.freegecko.com
 ## 下載
